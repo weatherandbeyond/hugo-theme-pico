@@ -7,7 +7,7 @@ features    = [
 	"responsive",
 	"tailwindcss",
 	"blog",
-	"syntax highlighting",
+	"syntax highlightning",
 ]
 homepage    = "https://sponge-bob.netlify.app/"
 license     = "MIT"
@@ -27,7 +27,7 @@ tags        = [
 	"multilingual",
 	"personal",
 	"resume",
-	"syntax highlighting",
+	"syntax highlightning",
 	"white",
 ]
 
