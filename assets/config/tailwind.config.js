@@ -34,14 +34,8 @@ module.exports = {
 	theme: {
 		inset,
 		extend: {
-			maxWidth: ({ theme }) => ({
-				...maxWidth,
-				...theme('spacing')
-			}),
-			maxHeight: ({ theme }) => ({
-				...maxHeight,
-				...theme('spacing')
-			}),
+			maxWidth,
+			maxHeight,
 			fontFamily: {
 				serif: ['Spectral', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
 				charter: ['charter', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif']
